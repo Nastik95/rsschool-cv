@@ -9,6 +9,8 @@ I am eager to learn, I enjoy overcoming challenges, and I have a genuine interes
  </ul>
  
 ## Experience
+I have no expereience yet. I am student
+
 ## Education
 <ul>
  <li><b>University</b>: Belarusian National Technical University</li>
