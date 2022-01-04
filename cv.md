@@ -7,10 +7,7 @@ I am eager to learn, I enjoy overcoming challenges, and I have a genuine interes
  <li>Telegram: <a href="https://t.me/Nastik280495">Loginova Anastasia</a></li>
  <li>GitHub: <a href="https://github.com/Nastik95">Loginova Anastasia</a></li>
  </ul>
- 
 ## Experience
-I have no expereience yet. I am student
-
 ## Education
 <ul>
  <li><b>University</b>: Belarusian National Technical University</li>
