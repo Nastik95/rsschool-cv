@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+}
+.nav-list {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+.header .logo {
+    padding-left: 30px;
+}
